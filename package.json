@@ -1,0 +1,36 @@
+{
+  "name": "graphiqal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyrtleTremble356/graphiqal.git"
+  },
+  "author": "MyrtleTremble356",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MyrtleTremble356/graphiqal/issues"
+  },
+  "homepage": "https://github.com/MyrtleTremble356/graphiqal#readme",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "express": "^4.19.2",
+    "is-array": "^1.0.1",
+    "is-bool": "^0.0.3",
+    "is-null": "^1.0.1",
+    "is-number": "^7.0.0",
+    "is-object": "^1.0.2",
+    "is-odd": "^3.0.1",
+    "jquery": "^3.7.1",
+    "lazy-store-loader": "^2.0.3",
+    "nodemon": "^3.1.0",
+    "qs": "^6.12.0",
+    "react": "^18.2.0",
+    "webpack": "^5.91.0",
+    "[object Object]": "^1.0.0"
+  }
+}
